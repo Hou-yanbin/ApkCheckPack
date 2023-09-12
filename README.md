@@ -1,6 +1,10 @@
 # 因为原作者的py代码'ctype'引用了Windows特有的库,使Mac无法使用，所以本人更新了一版适用于mac版本的py,后续会进行更新,欢迎star.
 # 报错信息:module 'ctypes' has no attribute 'windll'
 
+# 修改后
+<img width="1555" alt="image" src="https://github.com/Hou-yanbin/ApkCheckPack/assets/58129352/5ef3406f-b2fd-4794-94af-6f67bfff1601">
+
+
 
 # ApkCheckPack
 
